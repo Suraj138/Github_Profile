@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Suraj138.Suraj138" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=suraj138&label=Profile%20views&color=0e75b6&style=flat" alt="suraj138" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suraj+Kumar!;" />
 </h1>
@@ -25,9 +25,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ksuraj138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ksuraj138" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suraj-kumar-7bba4416b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-kumar-7bba4416b/" height="30" width="40" /></a>
-<a href="https://fb.com/kumar.suraj.528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kumar.suraj.528" height="30" width="40" /></a>
+<a href="mailto:ksuraj138@gmail.com" target="blank"><img align="center" src="https://github.com/Suraj138/Github_Profile/blob/master/gmail.svg" alt="" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/PlayMod_VIP" target="blank"><img align="center" src="https://github.com/Suraj138/Github_Profile/blob/master/telegram.svg" alt="" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/ksuraj138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ksuraj138" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/suraj-kumar-7bba4416b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-kumar-7bba4416b/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://fb.com/kumar.suraj.528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kumar.suraj.528" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/s_kumar_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_kumar_k" height="30" width="40" /></a>
 </p>
 
